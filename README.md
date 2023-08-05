@@ -11,10 +11,10 @@ Brand new for 2023, **jellypotato** is a free study tool for learners of Japanes
   <a href="assets/appstore_dictionary_65.png"><img alt="screenshot 2" src="assets/appstore_dictionary_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <a href="assets/appstore_exercise_65.png"><img alt="screenshot 2" src="assets/appstore_exercise_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_exercise_65.png"><img alt="screenshot 3" src="assets/appstore_exercise_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <a href="assets/appstore_kanji_65.png"><img alt="screenshot 2" src="assets/appstore_kanji_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_kanji_65.png"><img alt="screenshot 4" src="assets/appstore_kanji_65.png" width="140" height="300"></a>
 </picture>
 
 ---
