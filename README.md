@@ -17,7 +17,7 @@ Brand new for 2023, Jelly Potato is a free study tool for learners of Japanese.
   <img alt="screenshot 2" src="appstore_kanji_65.png" width="140" height="300">
 </picture>
 
-##
+##   
 
 ▣ **Exercises** - practice for the first section of the JLPT, which tests knowledge of words.
 Choose the correct reading of the word, or fill in the missing kanji. 
@@ -42,9 +42,10 @@ Only the most commonly-used 8500 words and expressions have been included, so yo
 ・No account required.
 ・Completely free to use and ad-free.
 
+
 ※ There are currently no official JLPT vocabulary or kanji classification lists; the classifications for all entries are carefully-chosen estimates only.
 
-##
+##   
 
 For feedback, queries, bug reports etc., please send an email to `jellypotato AT icloud DOT com`
 
