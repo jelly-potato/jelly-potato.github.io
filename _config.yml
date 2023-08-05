@@ -1,6 +1,8 @@
 name: "jellypotato app"
 tagline: "A free app for Japanese learners and anyone studying for the JLPT."
+description: "A free app for Japanese learners and anyone studying for the JLPT."
 logo: jellypotatologoheader.png
+image: jellypotatologoheader.png
 locale: en-IE
 plugins:
   - jekyll-seo-tag
