@@ -1,20 +1,20 @@
 <picture>
-  <img alt="jellypotato logo" src="jellypotatologoheader.png" width="260" height="70">
+  <img alt="jellypotato logo" src="/assets/jellypotatologoheader.png" width="260" height="70">
 </picture>
 
 Brand new for 2023, **jellypotato** is a free study tool for learners of Japanese.
 
 <picture>
-  <a href="appstore_darkmode_65.png"><img alt="screenshot 1" src="appstore_darkmode_65.png" width="140" height="300"></a>
+  <a href="appstore_darkmode_65.png"><img alt="screenshot 1" src="/assets/appstore_darkmode_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <a href="appstore_dictionary_65.png"><img alt="screenshot 2" src="appstore_dictionary_65.png" width="140" height="300"></a>
+  <a href="appstore_dictionary_65.png"><img alt="screenshot 2" src="/assets/appstore_dictionary_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <a href="appstore_exercise_65.png"><img alt="screenshot 2" src="appstore_exercise_65.png" width="140" height="300"></a>
+  <a href="appstore_exercise_65.png"><img alt="screenshot 2" src="/assets/appstore_exercise_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <a href="appstore_kanji_65.png"><img alt="screenshot 2" src="appstore_kanji_65.png" width="140" height="300"></a>
+  <a href="appstore_kanji_65.png"><img alt="screenshot 2" src="/assets/appstore_kanji_65.png" width="140" height="300"></a>
 </picture>
 
 ---
