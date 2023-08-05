@@ -1,2 +1,4 @@
 name: "jellypotato app"
 title: null
+plugins:
+  - jekyll-seo-tag
