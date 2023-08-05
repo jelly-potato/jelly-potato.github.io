@@ -2,7 +2,7 @@
   <img alt="jellypotato logo" src="jellypotatologoheader.png" width="260" height="70">
 </picture>
 
-Brand new for 2023, Jelly Potato is a free study tool for learners of Japanese.
+Brand new for 2023, **jellypotato** is a free study tool for learners of Japanese.
 
 <picture>
   <a href="appstore_darkmode_65.png"><img alt="screenshot 1" src="appstore_darkmode_65.png" width="140" height="300"></a>
