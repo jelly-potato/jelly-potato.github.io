@@ -5,16 +5,16 @@
 Brand new for 2023, Jelly Potato is a free study tool for learners of Japanese.
 
 <picture>
-  <img alt="screenshot 1" src="appstore_darkmode_65.png" width="140" height="300">
+  <a href="appstore_darkmode_65.png"><img alt="screenshot 1" src="appstore_darkmode_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <img alt="screenshot 2" src="appstore_dictionary_65.png" width="140" height="300">
+  <a href="appstore_dictionary_65.png"><img alt="screenshot 2" src="appstore_dictionary_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <img alt="screenshot 2" src="appstore_exercise_65.png" width="140" height="300">
+  <a href="appstore_exercise_65.png"><img alt="screenshot 2" src="appstore_exercise_65.png" width="140" height="300"></a>
 </picture>
 <picture>
-  <img alt="screenshot 2" src="appstore_kanji_65.png" width="140" height="300">
+  <a href="appstore_kanji_65.png"><img alt="screenshot 2" src="appstore_kanji_65.png" width="140" height="300"></a>
 </picture>
 
 ---
