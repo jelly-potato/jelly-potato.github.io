@@ -1,4 +1,5 @@
-name: "jellypotato app"
+name: "jellypotato"
+site-name: "jellypotato"
 tagline: "A free app for Japanese learners and anyone studying for the JLPT."
 description: "A free app for Japanese learners and anyone studying for the JLPT."
 logo: jellypotatologoheader.png
