@@ -43,13 +43,17 @@ Plus:
 
 ## Download
 
-<p float="middle">
-<a href="https://apps.apple.com/gb/app/jelly-potato/id1669584186?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1676678400" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/299bcc0ba83c8c91bff9c3123d0e3e47/663e39916d67d86eb91772926997719d.png" width="83" height="83">
-</p>
+Jelly Potato is only available for iPhone. Requires iOS 16.0.
 
-<p>
-Currently available in the following territories:<br>
+<a href="https://apps.apple.com/gb/app/jelly-potato/id1669584186?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1676678400" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+Or scan the QR code:  
+
+<picture>
+<img src="assets/qr-code.jpg" width="100" height="100">
+</picture>
+
+<br>Currently available in the following territories:<br>
 
 Australia, Austria, Belgium, Canada, Croatia, Cyprus, Czechia, Denmark, Finland, Greece, Hong Kong, Iceland, Ireland, Japan, Luxembourg, Malaysia, Malta, Netherlands, Norway, Philippines, Portugal, Singapore, Slovakia, Slovenia, Sweden, United Kingdom
 </p>
