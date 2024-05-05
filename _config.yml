@@ -1,13 +1,13 @@
-name: "jellypotato"
+name: "Jelly Potato"
 site-name: "jellypotato"
-tagline: "A free app for Japanese learners and anyone studying for the JLPT."
-description: "A free app for Japanese learners and anyone studying for the JLPT."
+tagline: "A free study tool for learners of the Japanese language."
+description: "A free study tool for learners of the Japanese language."
 logo: /assets/jellypotatoiconsmall.png
 image: 
   path: /assets/jellypotatoiconsmall.png
   height: 180
   width: 180
-  alt: jellypotato logo
+  alt: jelly　potato logo
 locale: en-IE
 plugins:
   - jekyll-seo-tag
