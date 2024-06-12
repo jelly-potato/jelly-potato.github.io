@@ -5,16 +5,16 @@
 A free study tool for learners of the Japanese language.
 
 <picture>
-  <a href="assets/appstore_dictionary_65.png"><img alt="screenshot 2" src="assets/appstore_dictionary_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_sc_iphone67_dict.png"><img alt="screenshot" src="assets/appstore_sc_iphone67_dict.png" width="215" height="466"></a>
 </picture>
 <picture>
-  <a href="assets/appstore_exercise_65.png"><img alt="screenshot 3" src="assets/appstore_exercise_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_sc_iphone67_exercise.png"><img alt="screenshot" src="assets/appstore_sc_iphone67_exercise.png" width="215" height="466"></a>
 </picture>
 <picture>
-  <a href="assets/appstore_kanji_65.png"><img alt="screenshot 4" src="assets/appstore_kanji_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_sc_iphone67_kanji.png"><img alt="screenshot" src="assets/appstore_sc_iphone67_kanji.png" width="215" height="466"></a>
 </picture>
 <picture>
-  <a href="assets/appstore_darkmode_65.png"><img alt="screenshot 1" src="assets/appstore_darkmode_65.png" width="140" height="300"></a>
+  <a href="assets/appstore_sc_iphone67_flashcards.png"><img alt="screenshot" src="assets/appstore_sc_iphone67_flashcards.png" width="215" height="466"></a>
 </picture>
 
 ## Key features
