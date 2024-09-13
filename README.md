@@ -55,7 +55,7 @@ Or scan the QR code:
 
 <br>Currently available in the following territories:<br>
 
-Australia, Austria, Belgium, Canada, Croatia, Cyprus, Czechia, Denmark, Finland, Greece, Hong Kong, Iceland, Ireland, Japan, Luxembourg, Malaysia, Malta, Netherlands, Norway, Philippines, Portugal, Singapore, Slovakia, Slovenia, Sweden, United Kingdom
+Australia, Austria, Belgium, Canada, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Greece, Hong Kong, Iceland, Ireland, Japan, Luxembourg, Malaysia, Malta, Netherlands, Norway, New Zealand, Philippines, Portugal, Singapore, Slovakia, Slovenia, Sweden, United Kingdom
 
 [^1]: There are currently no official JLPT vocabulary or kanji classification lists; the classifications for all entries are carefully-chosen estimates only.
 
